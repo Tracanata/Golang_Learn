@@ -1,8 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
+// import (
+// 	"fmt"
+// )
 
 // func main() {
 // 	// fmt.Println("baris ini tidak akan di eksekusi")
@@ -386,14 +386,14 @@ import (
 
 // operation boolean
 
-func main() {
-	var nilaiAkhir = 90
-	var absensi = 80
+// func main() {
+// 	var nilaiAkhir = 90
+// 	var absensi = 80
 
-	var lulusUjian bool = nilaiAkhir >= 90
-	var lulusAbsensi bool = absensi >= 80
+// 	var lulusUjian bool = nilaiAkhir >= 90
+// 	var lulusAbsensi bool = absensi >= 80
 
-	var lulus bool = lulusUjian && lulusAbsensi
+// 	var lulus bool = lulusUjian && lulusAbsensi
 
-	fmt.Println("Mahasiswa ini dinyatakan : ", lulus)
-}
+// 	fmt.Println("Mahasiswa ini dinyatakan : ", lulus)
+// }
