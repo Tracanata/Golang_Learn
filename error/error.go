@@ -1,10 +1,6 @@
 package main
 
-import (
-	"errors"
-	"fmt"
-)
-
+/*
 func pembagian(nilai int, pembagi int) (int, error) {
 	if pembagi == 0 {
 		return 0, errors.New("Pembagi adalah 0")
@@ -22,3 +18,4 @@ func main() {
 	}
 
 }
+*/
