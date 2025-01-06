@@ -1,6 +1,7 @@
 package main
 
-/*
+import "fmt"
+
 type Address struct {
 	City, Province, Country string
 }
@@ -15,4 +16,3 @@ func main() {
 
 	fmt.Println(address)
 }
-*/

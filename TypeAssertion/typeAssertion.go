@@ -24,4 +24,8 @@ func main() {
 		fmt.Println("Unknown", value)
 	}
 
+	/*
+		digunakan untuk perubahan type data,
+		atau menetukan type data yang digunakan
+	*/
 }

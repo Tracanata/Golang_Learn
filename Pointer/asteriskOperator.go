@@ -1,10 +1,11 @@
 package main
 
+import "fmt"
+
 type Alamat struct {
 	Kota, Provinsi, Negara string
 }
 
-/*
 func main() {
 	address1 := Alamat{"Cianjur", "Jawa Barat", "Indonesia"}
 	address2 := &address1
@@ -20,4 +21,3 @@ func main() {
 	fmt.Println(address2)
 
 }
-*/
